@@ -1,0 +1,1 @@
+This is lightweight Next.js demo app showcasing advanced routing patterns such asApp Router, Route Groups, Intercepting Routes, catch-all routes, and dynamic segments—backed by a simple Better-SQLite mock database. It lets you browse a news archive by year/month and view articles in a modal overlay.
